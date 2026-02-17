@@ -1,0 +1,14 @@
+# Text files (not needed in repo)
+*.txt
+!robots.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Node
+node_modules/
